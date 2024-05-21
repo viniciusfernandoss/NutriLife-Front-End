@@ -1,5 +1,7 @@
 import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+
+//screens
 import HomeScreen from '../screens/HomeScreen';
 import CriarRefScreen from '../screens/CriarRefScreen';
 import MostrarRefScreen from '../screens/MostrarRefScreen';
